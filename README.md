@@ -1,3 +1,4 @@
+
 # Solid Geometry Project in Three.js
 This project demonstrates how to render a solid 3D object using Three.js and provides user interaction via the OrbitControls module for camera movement. The project uses basic Three.js functionalities such as mesh geometry, materials, lighting, and rendering.
 
@@ -66,6 +67,8 @@ camera.position.z = 2;
 const scene=new THREE.Scene()
 ```
 ### Take a deeper look into my code...
+
+based on:https://github.com/bobbyroe/getting-started-with-threejs/tree/main
 
 ## Final result
 
